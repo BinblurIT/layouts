@@ -55,6 +55,7 @@
 .layout.dashboard .l70 {width: calc(70% - 10px);}
 
 #layer-1{
+	position:relative;
 	width: 500px;
 	border: 1px dotted blue;
 	height: 1200px;
