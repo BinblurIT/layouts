@@ -985,7 +985,6 @@
 /* 테이블 */
 .tbl_box {}
 .tbl_box table {
-    width: 100%;
 }
 .tbl_box table th {
     padding: 15px 0;
@@ -1025,6 +1024,8 @@
     color: #000;
     text-decoration: underline;
 }
+.tbl_box {}
+
 
 .detail_box {
     padding: 20px;
